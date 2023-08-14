@@ -3,6 +3,7 @@ package com.example.cursojetpackcomposer.ui.theme
 import androidx.compose.ui.graphics.Color
 
 val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey81 = Color(0xFF33C2DC)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
 
